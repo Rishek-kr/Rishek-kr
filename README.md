@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Rishek-kr
+- 👋 Hi, I’m @Rishek_27
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on ...
